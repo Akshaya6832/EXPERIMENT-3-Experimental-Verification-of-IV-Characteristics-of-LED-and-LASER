@@ -4,7 +4,6 @@
 
 ## 🎯 AIM
 To study the IV characteristics of fiber optic LED and plot the graph of forward current v/s output optical energy and also to study the photo detector response.
-
 ---
 
 ## 🧰 EQUIPMENTS REQUIRED
